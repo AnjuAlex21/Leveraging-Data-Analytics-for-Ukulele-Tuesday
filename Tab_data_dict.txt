@@ -1,0 +1,14 @@
+Data Dictionary for Tab Database
+								
+SONG: title of the song
+ARTIST: name of the artist or band
+YEAR: year the song was released
+TYPE: type of artist (Person/Band)
+GENDER: gender of the lead vocalist
+DURATION: duration of the song
+LANGUAGE: language(s) of the song
+TABBER: person who tabbed the song
+SOURCE: source of the tab (old, off, new)
+DATE: date the song was first played by Ukulele Tuesday
+DIFFICULTY: difficulty level of the song (from 1 to 5)
+SPECIAL BOOKS: books where the song is included

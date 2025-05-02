@@ -1,0 +1,5 @@
+Data Dictionary for Play Database
+
+SONG: the title of the song
+ARTIST: the name of the artist or band
+DATES: one column per date, indicating the order in which the song was played at that date (or empty if not played)

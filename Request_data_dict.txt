@@ -1,0 +1,5 @@
+Data Dictionary for Request Database
+
+SONG: the title of the song
+ARTIST: the name of the artist or band
+DATES: one column per date, indicating who requested the song at that date (G = Group, A=Audience, ?= Unknown), or empty if the song was not requested
